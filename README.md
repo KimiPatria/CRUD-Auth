@@ -51,6 +51,14 @@ GITHUB_CLIENT_ID = Access token
 GITHUB_CLIENT_SECRET = Secret access token
 ```
 
+## References
+
+- https://youtu.be/7K9kDrtc4S8?si=ry-4YDWLZXWjpHUm
+- https://youtu.be/xElA9mGi-I0?si=OWIZOB32ho4Z6Af-
+- https://youtu.be/c_-b_isI4vg?si=l85wn5zZh99XfH4E
+- https://youtu.be/eDf91hihLpo?si=qlxywXcZYN6egUWR
+- https://youtu.be/7K9kDrtc4S8?si=RfUzRYvrKXipdmLL
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
