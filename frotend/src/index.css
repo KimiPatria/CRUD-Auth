@@ -1,0 +1,206 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+main{
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.title{
+  text-align: center;
+  margin: 20px 0;
+}
+
+.input_holder{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+input, button{
+  padding: 10px;
+}
+
+ul{
+  list-style: none;
+  margin-top: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0px;
+  padding: 10px;
+  
+}
+
+.content{
+  display: flex;
+  gap: 5px;
+  background-color: aquamarine;
+  margin-bottom: 5px;
+  padding: 10px;
+  justify-content: space-between;
+  border-end-end-radius: 10px;
+  border-start-end-radius: 10px;
+  border-start-start-radius: 10px;
+  border-end-start-radius: 10px;
+  width: 700px;
+}
+
+
+.icon_holder{
+  display: flex;
+  gap: 10px;
+}
+
+.icon{
+  cursor: pointer;
+}
+
+.navbar{
+  height: 50px;
+  width: 100%;
+  background-color: rgba(188, 188, 188, 0.874);
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.logo{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.list{
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+.listItem{
+  margin: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.login{
+  height: calc(100vh - 50px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper{
+  width: 60%;
+  height: 75%;
+  -webkit-box-shadow: 0px 5px 33px -21px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 5px 33px -21px rgba(0,0,0,0.75);
+  box-shadow: 0px 5px 33px -21px rgba(0,0,0,0.75);
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.left,.right{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.center{
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.or{
+  border: 2px black solid;
+  border-radius: 50%;
+  padding: 10px;
+  color: gray;
+  background-color: white;
+  font-weight: bold;
+}
+
+.line{
+  width: 0.5px;
+  height: 350px;
+  background-color: gray;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  z-index: -1;
+}
+
+.loginButton{
+  width: 150px;
+  padding: 15px 25px;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.google{
+  background-color: gray;
+}
+
+.facebook{
+  background-color: gray;
+}
+
+.github{
+  background-color: gray;
+}
+
+.iconLogin{
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.input{
+  width: 200px;
+  padding: 15px 25px;
+  margin-bottom: 20px;
+}
+
+.submit{
+  width: 200px;
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 15px 25px;
+  border-radius: 5px ;
+}
+
+.loginTitle{
+  position: absolute;
+  top: 175px;
+  color: gray;
+
+}
