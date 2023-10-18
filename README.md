@@ -9,6 +9,7 @@ Install NodeJS and npm.
 Install dependencies
 
 ```bash
+cd  backend
 npm i express express-session mongoose mongodb passport cors dotenv nodemon
 ```
 
