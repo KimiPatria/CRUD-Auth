@@ -59,6 +59,10 @@ GITHUB_CLIENT_SECRET = Secret access token
 - https://youtu.be/eDf91hihLpo?si=qlxywXcZYN6egUWR
 - https://youtu.be/7K9kDrtc4S8?si=RfUzRYvrKXipdmLL
 
+## Documentation
+
+API endpoint documentation can be accessed through this link https://docs.google.com/document/d/1L7QkTnVt6m2MsI5cSO34gRgz8oIms217_iEcekGU6tQ/edit?usp=sharing
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
