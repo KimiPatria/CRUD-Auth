@@ -6,10 +6,9 @@ A CRUD app that demonstrates the basic function of CRUD, using MongoDB database.
 
 Install NodeJS and npm.
 
-Install dependencies
+Install dependencies on the backend folder
 
-```bash
-cd  backend
+```bash 
 npm i express express-session mongoose mongodb passport cors dotenv nodemon
 ```
 
